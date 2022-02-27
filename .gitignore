@@ -10,6 +10,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+#Fichier de dépendances réduit
+dependency-reduced-pom.xml
+
 # Package Files #
 *.jar
 *.war
